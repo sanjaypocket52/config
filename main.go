@@ -1,6 +1,6 @@
 package main
 
-import "configure/config"
+import "github.com/configure/config"
 
 func main() {
 	// calling micro services need to pass env + vendor

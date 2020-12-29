@@ -1,4 +1,4 @@
-module configure
+module github.com/configure
 
 go 1.15
 
